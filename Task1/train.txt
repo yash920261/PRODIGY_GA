@@ -1,0 +1,2 @@
+<|startoftext|>This is the first example of training text.<|endoftext|>
+<|startoftext|>This is the second example of training text.<|endoftext|>
